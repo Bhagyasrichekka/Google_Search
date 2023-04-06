@@ -1,0 +1,38 @@
+/* Write your CSS here */
+.bg {
+  text-align: center;
+  padding: 110px;
+  font-family: 'Roboto';
+}
+.logo {
+  width: 40%;
+  margin: auto;
+}
+.search-icon {
+  height: 20px;
+  width: 20px;
+}
+li {
+  list-style-type: none;
+}
+.search-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 180px;
+  margin-top: 50px;
+}
+input {
+  border-style: solid;
+  border-width: 0px;
+  font-size: 15px;
+  margin-left: 5px;
+  color: #bfbfbf;
+}
+.list-items {
+  width: 50%;
+  text-align: center;
+  border-style: solid;
+  margin: auto;
+  border-width: 0px;
+}
